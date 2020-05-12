@@ -1,7 +1,10 @@
 # dailyfresh
 
-Only for Python Learning
+## Content
 
-and all of the files are uploaded from local hardpan urgency
+This is a project for learning python based on Django framework.
 
-so there may lost the `.gitignore` files and only contain the master branch.
+## Description
+
+It's a platform of e-commerce, which you can shop meat, beef, vegetables, fruits and seafood. 
+
